@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColetApp</string>
+    <string name="title_activity_main">Map</string>
+    <string name="login_email">Digite seu email</string>
+    <string name="login_password">Digite sua senha</string>
+    <string name="sign_in_btn">Entrar</string>
+    <string name="sign_up_1">Não possui uma conta?</string>
+    <string name="sign_up_2">Registre-se</string>
+</resources>
